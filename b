@@ -1,1 +1,1 @@
-hello file b
+my second line in file b 
